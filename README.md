@@ -4,9 +4,6 @@
 
 https://github.com/yash131120/Visualize-Data-with-a-Choropleth-Map/assets/139432375/55e6ed73-d9ec-4d63-86e8-207384bcd3b4
 
-![image](https://github.com/yash131120/Visualize-Data-with-a-Choropleth-Map/assets/139432375/c1549793-6508-4508-aa1a-5ad73f9b03d8)
-
-
 Objective: Build an app that is functionally similar to this: https://choropleth-map.freecodecamp.rocks.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
@@ -42,3 +39,5 @@ US County Data:https://cdn.freecodecamp.org/testable-projects-fcc/data/choroplet
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
+
+![image](https://github.com/yash131120/Visualize-Data-with-a-Choropleth-Map/assets/139432375/c1549793-6508-4508-aa1a-5ad73f9b03d8)
