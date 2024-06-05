@@ -1,0 +1,15 @@
+body {
+  margin-top: 50px;
+  font: 10px sans-serif;
+  background: LightGray;
+}
+
+.infoGraphic {
+  background: white;
+  padding: 10px;
+  box-shadow: 10px 10px;
+}
+
+#tooltip {
+  text-align: center;
+}
